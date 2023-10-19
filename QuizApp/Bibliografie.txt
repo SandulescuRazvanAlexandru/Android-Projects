@@ -1,0 +1,33 @@
+	Am creat o activitate de tip Splash care reprezinta primul ecran pe care 
+utilizatorul il vede in momentul in care aplicatia este pornita. 
+
+	Imaginea de pe activitatea Splash este luata de aici:
+https://www.google.com/search?q=hacking&sxsrf=ALeKk02tIUc-sOwnC6W6HuBP4Ysipot5YQ:1604056988994&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjj2pz4mdzsAhVNQhoKHZAdCJIQ_AUoAXoECBgQAw&biw=1920&bih=912#imgrc=cqMK_Rrh4qSBGM
+
+sp = Scaleable Pixels (avantaj fata de dp cand vine vorba de font:
+adjust for both the screen density and user's preference)
+
+	Culorile au fost facute pe:
+https://encycolorpedia.com/f09819 
+
+	Font descarcat de aici:
+https://www.fontsquirrel.com/fonts/list/popular
+	DENUMIREA FONTULUI TREBUIE SA FIE CU LITERE MICI CA ALTFEL APARE EROARE
+SI STAI 3 ORE PE ACEA EROARE !!!!!!!!!! DE TINUT MINTE !!!!!!!!!!!!!!!!!!
+
+anim
+	->o animatie de 3 secunde care se "joaca cu textul" de la jumatatea 
+dimensiunii initiale si il mareste pana la 50% fata de dimensiunea initiala
+
+De la styles, pus in NoActionBar sus 
+
+	Intrebarile din quiz sunt luate de aici: 
+https://www.tutorialspoint.com/basics_of_computer_science/basics_of_computer_science_online_quiz.htm
+
+
+
+
+
+
+
+

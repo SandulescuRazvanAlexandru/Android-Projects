@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="text_computer_science_quiz">Computer Science Quiz</string>
+    <string name="text_start_quiz">Start Quiz</string>
+    <string name="text_1_10">1/10</string>
+    <string name="text_question">Question</string>
+    <string name="text_option_1">Option 1</string>
+    <string name="text_option_2">Option 2</string>
+    <string name="text_option_3">Option 3</string>
+    <string name="text_option_4">Option 4</string>
+    <string name="text_10">10</string>
+    <string name="text_score">SCORE</string>
+    <string name="text_1_8">1 / 8</string>
+</resources>
