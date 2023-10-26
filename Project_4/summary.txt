@@ -1,0 +1,3 @@
+Android Navigation & Menu Enhancement:
+Navigate seamlessly with DrawerLayout & FrameLayout, integrate Toolbar & ActionBarDrawerToggle for dynamic menus, and master menu creation & interactivity via NavigationView and MenuInflater.
+

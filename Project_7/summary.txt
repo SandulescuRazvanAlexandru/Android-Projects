@@ -1,0 +1,6 @@
+Executor: Manages and optimizes thread execution.
+Handler: Communicates between parallel threads and main Android thread.
+URL & HttpURLConnection: Establish and manage data connections.
+InputStream chain: Breaks down data from connections.
+JSON: Standardized data format.
+JSONObject & JSONArray: Converts JSON to Java structures.

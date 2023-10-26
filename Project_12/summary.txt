@@ -1,0 +1,10 @@
+AlertDialog: Android's pop-up message tool, constructed via Builder with title, message, and response buttons.
+
+setTitle & setMessage: Set pop-up title and content respectively, either directly or from resources.
+
+setPositiveButton & setNegativeButton: Add agreement or disagreement buttons with actions.
+
+create: Initializes the pop-up in memory.
+
+show: Displays the pop-up on screen.
+

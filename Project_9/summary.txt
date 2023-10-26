@@ -1,0 +1,6 @@
+SQLite: Android's native, open-source relational database system, requiring no external connectors.
+
+Room: An abstraction over SQLite, easing database access with annotations for automatic SQL generation, comprising components like database, entity, and Dao.
+
+Annotations: Labels in Room for database creation, operations, and conversions, including @Database, @Entity, @Dao, and @TypeConverter.
+

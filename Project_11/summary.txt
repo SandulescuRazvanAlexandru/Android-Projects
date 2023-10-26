@@ -1,0 +1,8 @@
+onDraw: Method in the View class for drawing visual components on the screen; often overridden for custom visuals.
+
+canvas: Object for graphics drawing, passed to onDraw.
+
+getHeight: Gives the height of the device from the Canvas class.
+
+getWidth: Provides the device's width via the Canvas class.
+

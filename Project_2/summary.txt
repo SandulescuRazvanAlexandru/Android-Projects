@@ -1,0 +1,2 @@
+Android Layout and Components Guide:
+A detailed breakdown of Android's essential layout types and visual components, offering insights into their functionality and use-cases, complemented with foundational methods and classes vital for dynamic application development.

@@ -1,0 +1,23 @@
+FirebaseDatabase: Establishes connection to Firebase database, accessed via FirebaseDatabase.getInstance().
+
+DatabaseReference: Links to a database node and handles CRUD operations, analogous to @Dao in Room.
+
+getReference(): Initializes DatabaseReference based on a node name.
+
+push(): Creates and adds a new node in the database.
+
+getKey(): Retrieves the key of a node created by push().
+
+setValue(): Updates or inserts data to a node, possibly chained with child().
+
+getValue(): Converts Firebase node to Java object using reflection.
+
+removeValue(): Deletes a node, can be combined with child() for specific deletions.
+
+child(): Accesses a child node of a parent, similar to where id=<value> in SQL.
+
+addValueEventListener(): Monitors database changes, triggering when CRUD operations occur.
+
+removeEventListener(): Activates upon removeValue() call.
+
+DataSnapshot: Converts Firebase JSON to Java objects during event listeners.

@@ -1,0 +1,4 @@
+SharedPreferences: Manages persistent key-value storage in Android.
+Editor: Writes data to preference files.
+getSharedPreferences: Creates SharedPreferences objects in an activity.
+apply: Saves data changes to the file.

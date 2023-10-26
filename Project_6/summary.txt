@@ -1,0 +1,6 @@
+notifyDataSetChanged(): Updates UI when data in adapter changes.
+getView(): Transforms Java object to UI element.
+setOnItemClickListener(): Handles item clicks in ListView.
+setSelection(): Sets active item in Spinner.
+check(): Chooses a RadioButton in RadioGroup.
+hasExtra(): Verifies parameter presence in Intent.

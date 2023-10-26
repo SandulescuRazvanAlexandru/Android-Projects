@@ -1,0 +1,2 @@
+Computer Science Quiz Application for Android:
+An interactive quiz app with a sleek design, offering users a diverse range of computer science questions and a visually engaging experience on Android platforms.
